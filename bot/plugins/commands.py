@@ -94,7 +94,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('🚀CHANNEL🚀', url='https://t.me/joinchat/VtTZc5al3Vt0te9_')
     ],[
-        InlineKeyboardButton('💫LIBRARY💫', url="https://t.me/FW_LIBRARI)
+        InlineKeyboardButton('💫LIBRARY💫', url='https://t.me/FW_LIBRARI')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
