@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '💫 Join Our Group', url="https://t.me/CrazyBotsz"
                                 )
                         ]
                     ]
@@ -94,7 +94,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('🚀CHANNEL🚀', url='https://t.me/joinchat/VtTZc5al3Vt0te9_')
     ],[
-        InlineKeyboardButton('💫LIBRARY💫', url="help.khik.")
+        InlineKeyboardButton('💫LIBRARY💫', url="https://t.me/FW_LIBRARI)
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
