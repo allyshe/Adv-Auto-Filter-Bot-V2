@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @FILMWORLDOFFICIA
 
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am Just A Advance Auto Filter Bot....🤪
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+ഈ ബോട്ട് തികച്ചും @FILM_WORL ഗ്രൂപ്പിലേക്ക് ആണ്. ഞാൻ ആണ് ആ ഗ്രൂപ്പിൽ സിനിമകൾ നൽകുന്നത് 😁
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+For More Details Join our group 👇👇
+@FILM_WORL
+
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +44,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@FILM_WORL
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
