@@ -89,7 +89,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/FILMWORLDOFFICIA'),
+        InlineKeyboardButton('DEVELOPER 🥷', url='https://t.me/FILMWORLDOFFICIA'),
         InlineKeyboardButton('🧿GROUP🧿', url ='https://t.me/FILM_WORL')
     ],[
         InlineKeyboardButton('🚀CHANNEL🚀', url='https://t.me/joinchat/VtTZc5al3Vt0te9_')
