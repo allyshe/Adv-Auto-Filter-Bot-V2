@@ -12,7 +12,7 @@ class Translation(object):
 For More Details Join our group 👇👇
 @FILM_WORL
 
-</i>"""    
+</b>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
